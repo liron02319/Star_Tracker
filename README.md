@@ -27,11 +27,10 @@ Liron Cohen - 312324247
 
 
 ## Background
-The Israeli spacecraft "Beresheet", launched by SpaceIL and Israel Aerospace Industries, was intended to be the first private spacecraft to land on the Moon.   
-On April 11, 2019, during the final landing phase, a technical malfunction occurred, leading to a loss of control and a crash on the lunar surface.
+The 
 
-![Israel spaceship](https://pic1.calcalist.co.il/PicServer3/2019/04/11/898977/3LM.jpg)
 
+![selfportrait_startracker_monikadeviat](https://github.com/user-attachments/assets/ab6035f8-fa22-40ba-8367-3668a1557ada)
 
 ## Q1
 - **Star tracker malfunction on launch night**: A pair of cameras designed to determine the spacecraft's angle in space were apparently blinded by dust particles that landed on their shields as it separated from the launch vehicle. The team had to find creative solutions to get around this problem - including tilting the spacecraft on its side during maneuvers, and **using accelerometers** instead of the star trackers.
