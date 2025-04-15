@@ -66,14 +66,9 @@ Using Python is a great way to read a CSV and plot data like altitude, speed, or
 
 - **Visual GRAPH Data:**  
 ![fuel](https://github.com/user-attachments/assets/0c103555-399e-4f0d-acee-7a34db604123)
-![alt](https://github.com/user-attachments/assets/34c1f8a7-f9d6-43f8-9fcb-57140e37e37f)
-![vs](https://github.com/user-attachments/assets/bc8beb4c-1b30-41b3-bf67-2c9cac3c1af2)
-![hs](https://github.com/user-attachments/assets/7b8178d0-2106-4e33-bf66-9c5e99c0b586)
+
 
 - **Running the simulation in a 3D experimental model**
 
-https://github.com/user-attachments/assets/68626718-e6f0-44ac-ac38-e57f785d73ec
 
 
-
-![Israel spaceship to the Moon](https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2015/10/Israel-spaceship-to-the-Moon.jpg?fit=800%2C400&ssl=1)
