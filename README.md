@@ -142,13 +142,24 @@ The results were visualized and analyzed using Python — optionally within Goog
 ## Detection Example
 
 
-![fuel](https://github.com/user-attachments/assets/0c103555-399e-4f0d-acee-7a34db604123)
+##  "ST_db1.png"
+![EXAM2](https://github.com/user-attachments/assets/b177f342-923f-450e-afd2-97b16f38b4e0)
+
+## "fr1.jpg"
+![EXAM1](https://github.com/user-attachments/assets/1b80fa67-818c-4f03-b080-607bd26dae9c)
+
 
 
 
 ## Matching Imgs Example
 
+
+## #find_matching('boaz_data_test/ST_db1.png', 'boaz_data_test/ST_db2.png')
+
 ![img6](https://github.com/user-attachments/assets/a989d684-7a7d-474f-9448-f8bd17e97970)
 
+
+## #find_matching('data_images/IMG_3052.jpg', 'data_images/IMG_3053.jpg')
+![img5](https://github.com/user-attachments/assets/431e7018-8d51-433a-8c77-00765fa5625f)
 
 
