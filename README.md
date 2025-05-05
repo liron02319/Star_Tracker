@@ -16,10 +16,9 @@ Liron Cohen - 312324247
 
 ## Table of Contents
 - [Background](#Background)
-- [Q1](#Q1)
-- [Q2](#Q2)
-- [Q3](#Q3)
-- [Q4](#Q4)
+- [THE TASK](#THE-TASK)
+- [MORE INFO](#MORE-INFO)
+
 - [Google Colab notebook](#Google-Colab-notebook,)
 - [Detection Example](#Detection-Example)
 - [Matching Imgs Example](#Matching-Imgs-Example)
@@ -35,9 +34,25 @@ In this project, we implemented a Python-based star tracking system. The program
 
 ![selfportrait_startracker_monikadeviat](https://github.com/user-attachments/assets/ab6035f8-fa22-40ba-8367-3668a1557ada)
 
+## THE TASK
+
 ## Q1
 Write a simple and effective algorithm to match two pictures - one with hundreds of stars and the other with 10-20 stars. Choose the simplest existing method in this section..
 
+## Q2
+- Create a library that takes a star image and converts it to a file of coordinates x, y, r, b where x and y represent the coordinates of each star while r represents the radius and b represents the    brightness.
+
+## Q3
+- Create a library that takes two images and calculates the best match between them by generating a list of coordinate pairs that point to the same star in each image.
+  The library compare each two images and return a matching in case it detect two similar stars in both files. The results are saved into a result file.
+
+## Q4
+- We conducted a large-scale experiment using image datasets to evaluate the performance of our star-matching algorithm.
+The results were visualized and analyzed using Python — optionally within Google Colab for convenience and reproducibility.  
+
+
+
+## MORE INFO
 
 This project is a Python implementation of a program that detects stars in two images and matches them based on their coordinates.
 At this project I used 2 ways for matching -   
@@ -118,22 +133,6 @@ This approach allows us to efficiently align and compare star patterns between t
 """
 
 ```
-
-
-
-## Q2
-- Create a library that takes a star image and converts it to a file of coordinates x, y, r, b where x and y represent the coordinates of each star while r represents the radius and b represents the    brightness.
-
-
-## Q3
-- Create a library that takes two images and calculates the best match between them by generating a list of coordinate pairs that point to the same star in each image.
-  The library compare each two images and return a matching in case it detect two similar stars in both files. The results are saved into a result file.
-
-
-
-## Q4
-- We conducted a large-scale experiment using image datasets to evaluate the performance of our star-matching algorithm.
-The results were visualized and analyzed using Python — optionally within Google Colab for convenience and reproducibility.
 
 
 ## Google Colab notebook
