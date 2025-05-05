@@ -140,6 +140,8 @@ The results were visualized and analyzed using Python — optionally within Goog
 - In This project there a Python implementation of a program that detects stars in two images and matches them based on their coordinates.
 - In addition, the results and analysis are presented in a Colab report, which can be found ***here***.
 
+![COLAB](https://github.com/user-attachments/assets/c55f536c-a63d-4187-ae08-933ae0e8834e)
+
 
 ## Detection Example
 
