@@ -74,12 +74,12 @@ for img in images:
 
 #matching stars
 
-#find_matching('boaz_data_test/fr1.jpg', 'boaz_data_test/fr1copy.jpg')
-#find_matching('boaz_data_test/fr1.jpg', 'boaz_data_test/ST_db1.png')
-#find_matching('boaz_data_test/fr1.jpg', 'boaz_data_test/ST_db2.png')
-#find_matching('boaz_data_test/fr2.jpg', 'boaz_data_test/ST_db2.png')
+#findMatching('boaz_data_test/fr1.jpg', 'boaz_data_test/fr1copy.jpg')
+#findMatching('boaz_data_test/fr1.jpg', 'boaz_data_test/ST_db1.png')
+#findMatching('boaz_data_test/fr1.jpg', 'boaz_data_test/ST_db2.png')
+#findMatching('boaz_data_test/fr2.jpg', 'boaz_data_test/ST_db2.png')
 #findMatching('boaz_data_test/fr1.jpg', 'boaz_data_test/fr2.jpg')
-#find_matching('boaz_data_test/ST_db1.png', 'boaz_data_test/ST_db2.png')
-#find_matching('data_images/IMG_3052.jpg', 'data_images/IMG_3053.jpg')
+#findMatching('boaz_data_test/ST_db1.png', 'boaz_data_test/ST_db2.png')
+#findMatching('data_images/IMG_3052.jpg', 'data_images/IMG_3053.jpg')
 
 
