@@ -145,11 +145,12 @@ The results were visualized and analyzed using Python — optionally within Goog
 
 ## Detection Example
 
-
-##  "ST_db1.png"
+***"ST_db1.png"***   
+   
 ![EXAM2](https://github.com/user-attachments/assets/b177f342-923f-450e-afd2-97b16f38b4e0)
-
-## "fr1.jpg"
+   
+***"fr1.jpg"***   
+   
 ![EXAM1](https://github.com/user-attachments/assets/1b80fa67-818c-4f03-b080-607bd26dae9c)
 
 
@@ -158,12 +159,13 @@ The results were visualized and analyzed using Python — optionally within Goog
 ## Matching Imgs Example
 
 
-## findMatching('boaz_data_test/ST_db1.png', 'boaz_data_test/ST_db2.png')
-
+***findMatching('boaz_data_test/ST_db1.png', 'boaz_data_test/ST_db2.png')***   
+   
 ![img6](https://github.com/user-attachments/assets/a989d684-7a7d-474f-9448-f8bd17e97970)
 
 
-## findMatching('data_images/IMG_3052.jpg', 'data_images/IMG_3053.jpg')
+***findMatching('data_images/IMG_3052.jpg', 'data_images/IMG_3053.jpg')***   
+   
 ![img5](https://github.com/user-attachments/assets/431e7018-8d51-433a-8c77-00765fa5625f)
 
 
