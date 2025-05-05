@@ -37,7 +37,7 @@ In this project, we implemented a Python-based star tracking system. The program
 ## THE TASK
 
 ## Q1
-Write a simple and effective algorithm to match two pictures - one with hundreds of stars and the other with 10-20 stars. Choose the simplest existing method in this section..
+- Write a simple and effective algorithm to match two pictures - one with hundreds of stars and the other with 10-20 stars. Choose the simplest existing method in this section..
 
 ## Q2
 - Create a library that takes a star image and converts it to a file of coordinates x, y, r, b where x and y represent the coordinates of each star while r represents the radius and b represents the    brightness.
