@@ -56,8 +56,8 @@ The results were visualized and analyzed using Python — optionally within Goog
 
 This project is a Python implementation of a program that detects stars in two images and matches them based on their coordinates.
 At this project I used 2 ways for matching -   
-1- with RANSAC  
-2- Hungarian algorithm.  *** NOTE : after many attempts, it sometimes work.
+1- with RANSAC     ***detection_stars.py file***   
+2- Hungarian algorithm.     ***secondWayMatching.py file***    *** NOTE : after many attempts, it sometimes work. 
 
 
 
