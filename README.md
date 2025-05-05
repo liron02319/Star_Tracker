@@ -39,8 +39,8 @@ Write a simple and effective algorithm to match two pictures - one with hundreds
 
 
 This project is a Python implementation of a program that detects stars in two images and matches them based on their coordinates.
-At this project I used 2 ways for matching - 
-1- with RANSAC
+At this project I used 2 ways for matching -   
+1- with RANSAC  
 2- Hungarian algorithm.
 
 
