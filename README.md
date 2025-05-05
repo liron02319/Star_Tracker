@@ -32,6 +32,7 @@ Star trackers are essential tools used in a variety of fields, particularly in a
 In this project, we implemented a Python-based star tracking system. The program detects stars in two given images and matches them based on their coordinates. The core idea is to extract star-like features from the images, compute their locations, and compare the coordinates between the two images to identify matching stars. 
 
 
+
 ![selfportrait_startracker_monikadeviat](https://github.com/user-attachments/assets/ab6035f8-fa22-40ba-8367-3668a1557ada)
 
 ## Q1
@@ -41,7 +42,8 @@ Write a simple and effective algorithm to match two pictures - one with hundreds
 This project is a Python implementation of a program that detects stars in two images and matches them based on their coordinates.
 At this project I used 2 ways for matching -   
 1- with RANSAC  
-2- Hungarian algorithm.
+2- Hungarian algorithm.  *** NOTE : after many attempts, it sometimes work.
+
 
 
 
