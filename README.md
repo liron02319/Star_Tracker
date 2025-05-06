@@ -51,7 +51,7 @@ In this project, we implemented a Python-based star tracking system. The program
 ***boaz_data_test-*** contains imgs test boaz   
 ***data_images-*** contains imgs of stars   
 ***outputMatching-*** contains imgs of Hungarian algorithm matching    
-***outputMatchingDetectionStars-*** contains imgs coordinates  after matching    
+***outputMatchingDetectionStars-*** contains imgs coordinates txt after matching first algo using RANSAC    
 ***output_boaz_data_test-*** contains txt of imgs test boaz coordinates    
 ***output_data_images-*** contains txt of imgs coordinates    
 
