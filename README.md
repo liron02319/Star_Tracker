@@ -19,7 +19,7 @@ Liron Cohen - 312324247
 - [Files In Project](#Files-In-Project)
 - [THE TASK](#THE-TASK)
 - [MORE INFO](#MORE-INFO)
-- [Google Colab notebook](#Google-Colab-notebook,)
+- [Google Colab notebook](#Google-Colab-notebook)
 - [Detection Example](#Detection-Example)
 - [Matching Imgs Example](#Matching-Imgs-Example)
 
