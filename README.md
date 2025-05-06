@@ -141,9 +141,11 @@ Use RANSAC Algorithm to get the two pictures lines and top three points that rep
 In each rect, after phase II, there will be three points representing its RANSAC line - then can be interrupted as triangle.
 check the similarity of both triangles => which gives you the Ratio.
 Compute the transformation between img1 to img2, using the Ratio.
-Draw the images after the transformation.
+Draw the images after the transformation.   
 
-
+RANSAC Algorithm:  
+https://en.wikipedia.org/wiki/Random_sample_consensus   
+     
 2)
 Algorithm Matching img: 2 Way
 
