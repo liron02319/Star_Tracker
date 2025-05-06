@@ -16,6 +16,7 @@ Liron Cohen - 312324247
 
 ## Table of Contents
 - [Background](#Background)
+- [Files In Project](#Files-In-Project)
 - [THE TASK](#THE-TASK)
 - [MORE INFO](#MORE-INFO)
 - [Google Colab notebook](#Google-Colab-notebook,)
@@ -32,6 +33,33 @@ In this project, we implemented a Python-based star tracking system. The program
 
 
 ![selfportrait_startracker_monikadeviat](https://github.com/user-attachments/assets/ab6035f8-fa22-40ba-8367-3668a1557ada)
+
+  
+
+## Files In Project   
+***detection_stars.py-*** code with RANSAC algorithm   
+***functionForMain.py-*** function for the mains   
+***mainDetectionStars.py-*** run matching with RANSAC   
+***main2SecondWay.py-*** main for Hungarian algorithm   
+***main_boaz_data_test.py-*** save the coordinates of imgs test boaz  to folder ''output_boaz_data_test''   
+***main_data_images.py-*** save the coordinates of imgs data  to folder  ''output_data_images''   
+***mainDetectionStars.py-***  run matching with RANSAC    
+***secondWayMatching.py-*** code with Hungarian algorithm   
+   
+##***folders***   
+   
+***boaz_data_test-*** contains imgs test boaz   
+***data_images-*** contains imgs of stars   
+***outputMatching-*** contains imgs of Hungarian algorithm matching    
+***outputMatchingDetectionStars-*** contains imgs coordinates  after matching    
+***output_boaz_data_test-*** contains txt of imgs test boaz coordinates    
+***output_data_images-*** contains txt of imgs coordinates    
+
+
+
+
+
+
 
 ## THE TASK
 
